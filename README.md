@@ -77,7 +77,6 @@ This will open a Tkinter-based interface to upload and colorize black-and-white 
 | Input (B&W) | Output (Colorized) |
 | ----------- | ------------------ |
 |![image other](https://github.com/user-attachments/assets/b08167ea-cf1d-43ef-b5b2-8fb3bfc0b8e8)|![result](https://github.com/user-attachments/assets/d99b0c1f-eba9-4cb0-9590-b0ae0a26d339)
-|
 
 ## References
 
